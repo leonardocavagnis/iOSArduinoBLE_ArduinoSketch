@@ -7,7 +7,7 @@
 This repository contains an Arduino sketch for controlling the built-in LED and reading the temperature from the humidity and temperature sensor on the Arduino Nano 33 BLE Sense board.
 The sketch uses Bluetooth connectivity to enable remote control of the built-in LED and monitoring of the temperature readings.
 
-For a detailed description and explanation, please refer to the external article [here](link_to_article).
+For a detailed description and explanation, please refer to the external article [here](https://medium.com/@leonardocavagnis/from-arduino-programming-to-ios-app-development-8b5da1783e1e).
 
 ## Hardware Requirements
 
